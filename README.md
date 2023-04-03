@@ -11,6 +11,8 @@
 - 📫 How to reach me **kindnessokpugie1@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1GL0JGdgEjlVWfFnvaHPV8SV-fRbwUJuA0mv6lrMKWec/edit#heading=h.rfgvkg2ifhfd](https://docs.google.com/document/d/1GL0JGdgEjlVWfFnvaHPV8SV-fRbwUJuA0mv6lrMKWec/edit#heading=h.rfgvkg2ifhfd)
+- 
+- 📄Fiind out more about me: [https://kindness-okpugie.vercel.app/](https://kindness-okpugie.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
