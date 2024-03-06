@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/owieoghene" target="blank"><img src="https://img.shields.io/twitter/follow/owieoghene?logo=twitter&style=for-the-badge" alt="owieoghene" /></a> </p>
 
-- 💬 Ask me about **React, Nodejs and Postgresql.**
+- 💬 Ask me about **React Native, Nextjs, and Postgresql.**
 
 - 📫 How to reach me **kindnessokpugie1@gmail.com**
 
